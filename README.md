@@ -26,7 +26,7 @@ Prerequisites:
 - npm or yarn
 Backend Setup:
 1. Clone repository
-    `git clone https://github.com/your-repo/personal-finance-manager.git`
+    `git clone https://github.com/ikerfueyo/personal-finance-manager.git`
     `cd personal-finance-manager`
 2. Install backend dependencies
     `cd server`
